@@ -126,8 +126,9 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abirdas1999&show_icons=true&locale=en&layout=compact" alt="Abirdas1999" />
-</p>
+<!-- Custom Top Language (Java 30%) -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abirdas1999&langs_count=1&hide=jupyter%20notebook,html,css,javascript&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Top Language" />
+
 
 <p>
   &nbsp;
