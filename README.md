@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer from India, Learning MERN Stack and Looking for opportunities</h3>
 
 <!-- LinkedIn / header banner image -->
-![LinkedIn Banner](https://www.linkedin.com/in/abir-das-968524189/overlay/background-image/)
+![LinkedIn Banner](./Asset/1742315072950.jpeg)
 
 - 📫 How to reach me: abirbanti527@gmail.com / devabir@hotmail.com
 
