@@ -35,9 +35,9 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/>
   </a>
 
-  <!-- Kafka -->
+  <!-- Kafka (white logo for dark mode) -->
   <a href="https://kafka.apache.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon-white.svg" alt="kafka" width="40" height="40"/>
   </a>
 
   <!-- Kubernetes -->
@@ -85,9 +85,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   </a>
 
-  <!-- Express -->
+  <!-- Express (white logo for dark mode) -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon-white.svg" alt="express" width="40" height="40"/>
   </a>
 
   <!-- Node.js -->
@@ -120,9 +120,9 @@
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google-cloud" width="40" height="40"/>
   </a>
 
-  <!-- AWS -->
+  <!-- AWS (Amazon style logo) -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="40" height="40"/>
   </a>
 </p>
 
