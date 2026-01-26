@@ -124,10 +124,7 @@
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
   </a>
 </p>
-<br clear="both" />
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Abirdas1999&theme=dark&format=png&cache_seconds=86400" />
-</p>
+
 
 
 <p>
@@ -140,13 +137,12 @@
 </p>
 
 
+<br clear="both" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Abirdas1999&theme=dark&format=png&cache_seconds=86400" />
+</p>
 
 
-
-
-<!-- <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abirdas1999&" alt="Abirdas1999" />
-</p> -->
 <p>
   <img align="left" width="120" height="120" src="https://github.com/abhi9960/abhi9960/blob/master/assests/octo.gif?raw=true">
 </p>
