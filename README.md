@@ -134,9 +134,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abirdas1999&show_icons=true&locale=en" alt="Abirdas1999" />
 </p>
 
-<p>
+<!-- <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abirdas1999&" alt="Abirdas1999" />
-</p>
+</p> -->
 <p>
   <img align="left" width="120" height="120" src="https://github.com/abhi9960/abhi9960/blob/master/assests/octo.gif?raw=true">
 </p>
