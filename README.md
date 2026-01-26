@@ -4,7 +4,7 @@
 <!-- LinkedIn / header banner image -->
 ![LinkedIn Banner](./Asset/1742315072950.jpeg)
 
-- 📫 How to reach me: abirbanti527@gmail.com / devabir@hotmail.com
+- 📫 How to reach me: abirbanti527@gmail.com / devabir@hotmail.comhttps://github.com/Abirdas1999/abirdas1999/blob/main/README.md
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -132,7 +132,6 @@
   
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abirdas1999&show_icons=true&theme=dark)
 
 <p>
   &nbsp;
