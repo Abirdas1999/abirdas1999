@@ -128,8 +128,11 @@
 
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abirdas1999&show_icons=true&locale=en&layout=compact" alt="Abirdas1999" /> </p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Abirdas1999&show_icons=true&theme=dark" alt="Abirdas1999" /> 
+  
+</p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abirdas1999&show_icons=true&theme=dark)
 
 <p>
   &nbsp;
@@ -144,7 +147,7 @@
 
 ![Contribution Graph](https://ghchart.rshah.org/Abirdas1999)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abirdas1999&show_icons=true&theme=dark)
+
 
 ![x](https://github-readme-streak-stats.vercel.app/?user=Abirdas1999)
 
