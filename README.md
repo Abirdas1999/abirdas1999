@@ -133,11 +133,10 @@
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abirdas1999&show_icons=true&locale=en" alt="Abirdas1999" />
 </p>
-<p align="center">
+
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Abirdas1999&theme=dark&cache_seconds=86400)
 
-</p>
 
 
 
