@@ -132,9 +132,7 @@
   
 </p>
 
-<p align="center">
-  <img src="./Asset/Git.svg" alt="GitHub Streak">
-</p>
+
 
 
 <p>
@@ -144,6 +142,10 @@
 
 
 ![Contribution Graph](https://ghchart.rshah.org/Abirdas1999)
+
+<p align="center">
+  <img src="./Asset/Git.svg" alt="GitHub Streak">
+</p>
 
 
 
