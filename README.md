@@ -135,7 +135,8 @@
 </p>
 
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Abirdas1999&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Abirdas1999&theme=dark&format=png)
+
 
 
 
