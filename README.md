@@ -137,10 +137,17 @@
 </p>
 
 
-<br clear="both" />
+<!-- <br clear="both" />
 <p align="center">
   <img src="https://github-readme-streak-stats.vercel.app/?user=Abirdas1999&theme=dark&format=png&cache_seconds=86400" />
-</p>
+</p> -->
+
+![Contribution Graph](https://ghchart.rshah.org/Abirdas1999)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abirdas1999&show_icons=true&theme=dark)
+
+![x](https://github-readme-streak-stats.vercel.app/?user=Abirdas1999)
+
 
 
 <p>
