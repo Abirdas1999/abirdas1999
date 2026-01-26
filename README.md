@@ -135,7 +135,10 @@
 </p>
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Abirdas1999&theme=dark&cache_seconds=86400)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Abirdas1999&theme=dark&cache_seconds=86400" alt="GitHub Streak">
+</p>
+
 
 
 
