@@ -128,11 +128,11 @@
 
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Abirdas1999&show_icons=true&theme=dark" alt="Abirdas1999" /> 
+<img style="margin: 10px 10px;" align="left" src="https://github-readme-stats.vercel.app/api?username=Abirdas1999&show_icons=true&theme=dark" alt="Abirdas1999" /> 
   
 </p>
 <p>
-  <img align="left" width="120" height="120" src="https://github.com/abhi9960/abhi9960/blob/master/assests/octo.gif?raw=true">
+  <img  style="margin: 10px 10px;" align="left" width="120" height="120" src="https://github.com/abhi9960/abhi9960/blob/master/assests/octo.gif?raw=true">
 </p>
 
 
