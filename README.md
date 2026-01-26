@@ -133,7 +133,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/Git.svg" alt="GitHub Streak">
+  <img src="./Asset/Git.svg" alt="GitHub Streak">
 </p>
 
 
