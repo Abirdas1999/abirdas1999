@@ -133,6 +133,10 @@
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abirdas1999&show_icons=true&locale=en" alt="Abirdas1999" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abirdas1999&theme=dark" />
+</p>
+
 
 <!-- <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abirdas1999&" alt="Abirdas1999" />
