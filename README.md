@@ -132,10 +132,10 @@
   
 </p>
 
-<p>
-<img style="margin: 10px 10px;" align="left" src="https://streak-stats.demolab.com/?user=Abirdas1999&theme=dark" /> 
-  
+<p align="center">
+  <img src="./assets/streak.png" alt="GitHub Streak">
 </p>
+
 
 <p>
   <img  style="margin: 10px 10px;" align="left" width="120" height="120" src="https://github.com/abhi9960/abhi9960/blob/master/assests/octo.gif?raw=true">
