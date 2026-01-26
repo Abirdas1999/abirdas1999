@@ -131,27 +131,23 @@
 <img style="margin: 10px 10px;" align="left" src="https://github-readme-stats.vercel.app/api?username=Abirdas1999&show_icons=true&theme=dark" alt="Abirdas1999" /> 
   
 </p>
+
+<p>
+<img style="margin: 10px 10px;" align="left" src="https://streak-stats.demolab.com/?user=Abirdas1999&theme=dark" /> 
+  
+</p>
+
 <p>
   <img  style="margin: 10px 10px;" align="left" width="120" height="120" src="https://github.com/abhi9960/abhi9960/blob/master/assests/octo.gif?raw=true">
 </p>
 
 
-<!-- <p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abirdas1999&show_icons=true&locale=en" alt="Abirdas1999" />
-</p> -->
-
-
-<!-- <br clear="both" />
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Abirdas1999&theme=dark&format=png&cache_seconds=86400" />
-</p> -->
 
 ![Contribution Graph](https://ghchart.rshah.org/Abirdas1999)
 
 
 
-![x](https://github-readme-streak-stats.vercel.app/?user=Abirdas1999)
+
 
 
 
