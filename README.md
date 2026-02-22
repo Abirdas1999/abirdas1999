@@ -127,10 +127,10 @@
 
 
 
-<p>
+<!-- <p>
 <img style="margin: 10px 10px;" align="left" src="https://github-readme-stats.vercel.app/api?username=Abirdas1999&show_icons=true&theme=dark" alt="Abirdas1999" /> 
   
-</p>
+</p> -->
 
 
 
