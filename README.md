@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abir Das</h1>
-<h3 align="center">A passionate Software developer from India, Learning Spring & MERN and Looking for opportunities</h3>
+<h3 align="center">A passionate Software Developer from India, Learning Spring & MERN and Looking for opportunities</h3>
 
 <!-- LinkedIn / header banner image -->
 ![LinkedIn Banner](./Asset/1742315072950.jpeg)
 
-- 📫 How to reach me: abirbanti527@gmail.com / devabir@hotmail.comhttps://github.com/Abirdas1999/abirdas1999/blob/main/README.md
+- - 📫 How to reach me: abirbanti527@gmail.com / devabir@hotmail.com
 
 ## 🌐 Connect with me :
 
@@ -28,7 +28,7 @@
 
 <p align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akheruddinahmed&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abirdas1999&theme=radical" />
 </p>
 
 ---
@@ -36,8 +36,8 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akheruddinahmed&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akheruddinahmed&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abirdas1999&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abirdas1999&theme=github_dark"/>
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akheruddinahmed&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Abirdas1999&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
