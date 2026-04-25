@@ -63,6 +63,14 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <b><i>“It’s fine to celebrate success, but it is more important to heed the lessons of failure.”</i></b><br/>
+  <sub>— Bill Gates</sub>
+</p>
+
 ---
 
 
