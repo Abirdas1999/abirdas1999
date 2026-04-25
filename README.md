@@ -66,10 +66,17 @@
 
 ## ✍️ Dev Quote
 
-<p align="center">
-  <b><i>“It’s fine to celebrate success, but it is more important to heed the lessons of failure.”</i></b><br/>
-  <sub>— Bill Gates</sub>
+<div align="center" style="background: linear-gradient(135deg, #1f1c2c, #928dab); padding: 20px; border-radius: 12px; width: 80%; margin: auto;">
+
+<p style="font-size: 18px; color: #e0f7fa; font-style: italic;">
+“It's fine to celebrate success, but it is more important to heed the lessons of failure.”
 </p>
+
+<p style="text-align: right; color: #ff6fa5; font-weight: bold;">
+— Bill Gates
+</p>
+
+</div>
 
 ---
 
