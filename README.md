@@ -1,5 +1,23 @@
 
 
+
+
+
+
+
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm Abir Das</h1>
+<h3 align="center">A passionate Software Developer from India, Learning Spring & MERN and Looking for opportunities</h3>
+
+<!-- LinkedIn / header banner image -->
+![LinkedIn Banner](./Asset/1742315072950.jpeg)
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Abir%20Das&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=FullStack%20Developer%20%7C%20React%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=58&descSize=18&descColor=a0aec0" />
 </p>
@@ -17,20 +35,6 @@
 </div>
 
 ---
-
-
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Abir Das</h1>
-<h3 align="center">A passionate Software Developer from India, Learning Spring & MERN and Looking for opportunities</h3>
-
-<!-- LinkedIn / header banner image -->
-![LinkedIn Banner](./Asset/1742315072950.jpeg)
 
 - - 📫 How to reach me: abirbanti527@gmail.com / devabir@hotmail.com
 
