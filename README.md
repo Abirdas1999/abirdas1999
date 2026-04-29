@@ -132,7 +132,13 @@
 ⚡ I enjoy solving DSA problems and turning ideas into real-world applications 🚀
 
 
+<p>
+  <img  style="margin: 10px 10px;" align="left" width="120" height="120" src="https://github.com/abhi9960/abhi9960/blob/master/assests/octo.gif?raw=true">
+</p>
 
+
+
+![Contribution Graph](https://ghchart.rshah.org/Abirdas1999)
 
 ---
 
@@ -147,13 +153,7 @@
 
 
 
-<p>
-  <img  style="margin: 10px 10px;" align="left" width="120" height="120" src="https://github.com/abhi9960/abhi9960/blob/master/assests/octo.gif?raw=true">
-</p>
 
-
-
-![Contribution Graph](https://ghchart.rshah.org/Abirdas1999)
 
 
 
