@@ -129,8 +129,8 @@
 
 ## 💡 Fun Fact
 
-<div style="padding: 50px;" align="center">
-  <i>"Code is not just syntax — it's problem solving."</i>
+<div  align="center">
+  <i style="padding: 10px 10px;">"Code is not just syntax — it's problem solving."</i>
 </div>
 
 
