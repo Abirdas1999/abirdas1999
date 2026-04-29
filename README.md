@@ -6,7 +6,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4EA8DE&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+PostgreSQL;Building+Real-World+Full-Stack+Apps;Open+to+Fresher+%2F+Junior+Backend+Roles" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4EA8DE&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+PostgreSQL;Building+Real-World+Full-Stack+Apps;Open+to+Fresher+%2F+Junior+Backend+Roles" /> -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4EA8DE&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+REST+APIs;Building+Real-World+Full-Stack+Apps;Open+to+Fresher+%2F+Junior+Full+Stack+Roles" />
 
 <br/>
 
