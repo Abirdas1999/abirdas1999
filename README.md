@@ -150,6 +150,15 @@
 <p align="left">
   <img src="./Asset/Git.svg" alt="GitHub Streak">
 </p>
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
+
+<div align="center">
+  <i>"Code is not just syntax — it's problem solving."</i>
+</div>
 
 
 
