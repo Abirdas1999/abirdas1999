@@ -1,3 +1,31 @@
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Atif%20Zeya&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=58&descSize=18&descColor=a0aec0" />
+</p>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4EA8DE&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+PostgreSQL;Building+Real-World+Full-Stack+Apps;Open+to+Fresher+%2F+Junior+Backend+Roles" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AtifZeya84&label=Profile+Views&color=4ea8de&style=flat-square)](https://github.com/AtifZeya84)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/AtifZeya84?label=Followers&style=flat-square&color=4ea8de)](https://github.com/AtifZeya84)
+
+</div>
+
+---
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Abir Das</h1>
 <h3 align="center">A passionate Software Developer from India, Learning Spring & MERN and Looking for opportunities</h3>
 
