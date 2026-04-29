@@ -129,7 +129,7 @@
 
 ## 💡 Fun Fact
 
-⚡ I enjoy solving DSA problems and turning ideas into real-world applications 🚀
+
 
 
 <p>
