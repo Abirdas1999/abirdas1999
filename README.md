@@ -24,8 +24,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Abir Das</h1>
-<h3 align="center">A passionate Software Developer from India, Learning Spring & MERN and Looking for opportunities</h3>
+<!-- <h1 align="center">Hi 👋, I'm Abir Das</h1>
+<h3 align="center">A passionate Software Developer from India, Learning Spring & MERN and Looking for opportunities</h3> -->
 
 <!-- LinkedIn / header banner image -->
 ![LinkedIn Banner](./Asset/1742315072950.jpeg)
