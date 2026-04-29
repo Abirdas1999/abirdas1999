@@ -155,9 +155,7 @@
 
 ![Contribution Graph](https://ghchart.rshah.org/Abirdas1999)
 
-<p align="left">
-  <img src="./Asset/Git.svg" alt="GitHub Streak">
-</p>
+
 
 
 
