@@ -13,9 +13,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AtifZeya84&label=Profile+Views&color=4ea8de&style=flat-square)](https://github.com/Abirdas1999)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/AtifZeya84?label=Followers&style=flat-square&color=4ea8de)](https://github.com/Abirdas1999)
+
 
 </div>
 
