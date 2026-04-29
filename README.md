@@ -136,6 +136,10 @@
   <img  style="margin: 10px 10px;" align="left" width="120" height="120" src="https://github.com/abhi9960/abhi9960/blob/master/assests/octo.gif?raw=true">
 </p>
 
+<div align="center">
+  <i>"Code is not just syntax — it's problem solving."</i>
+</div>
+
 
 
 ![Contribution Graph](https://ghchart.rshah.org/Abirdas1999)
@@ -146,9 +150,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
 
-<div align="center">
-  <i>"Code is not just syntax — it's problem solving."</i>
-</div>
+
 
 
 
