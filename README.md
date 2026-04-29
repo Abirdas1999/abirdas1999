@@ -129,16 +129,16 @@
 
 ## 💡 Fun Fact
 
-
+<div align="center">
+  <i>"Code is not just syntax — it's problem solving."</i>
+</div>
 
 
 <p>
   <img  style="margin: 10px 10px;" align="left" width="120" height="120" src="https://github.com/abhi9960/abhi9960/blob/master/assests/octo.gif?raw=true">
 </p>
 
-<div align="center">
-  <i>"Code is not just syntax — it's problem solving."</i>
-</div>
+
 
 
 
