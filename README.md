@@ -129,7 +129,7 @@
 
 ## 💡 Fun Fact
 
-<div style="margin: 20px 10px;" align="center">
+<div style="padding: 20px 10px;" align="center">
   <i>"Code is not just syntax — it's problem solving."</i>
 </div>
 
